@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern="tap-to-html" type="JavaScript" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="6-add-app-logs" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="www" type="PLAIN_TEXT" />
+      <mapping pattern="idk" type="PLAIN_TEXT" />
+      <mapping pattern=".envrc" type="PLAIN_TEXT" />
+      <mapping pattern="5-install-java" type="PLAIN_TEXT" />
+      <mapping ext="nunjucks" type="XHTML" />
+    </extensionMap>
+  </component>
+</application>
