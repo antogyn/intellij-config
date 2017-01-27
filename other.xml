@@ -48,8 +48,11 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="4.0.0" last-modified="1441725839000" />
+    <local-interpreter path="/usr/local/Cellar/node/7.4.0/bin/node">
+      <version-cache version="7.4.0" last-modified="1483551728000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v7.2.0/bin/node">
+      <version-cache version="7.2.0" last-modified="1479855072000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v7.1.0/bin/node">
       <version-cache version="7.1.0" last-modified="1478631072000" />
@@ -92,6 +95,9 @@
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v4.0.0/bin/node">
       <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="4.0.0" last-modified="1441725839000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v0.12.12/bin/node">
       <version-cache version="0.12.12" last-modified="1457440946000" />
