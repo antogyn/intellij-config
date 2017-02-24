@@ -10,6 +10,7 @@
       <mapping pattern="idk" type="PLAIN_TEXT" />
       <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping pattern="5-install-java" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="nunjucks" type="XHTML" />
     </extensionMap>
   </component>
