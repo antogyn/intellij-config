@@ -7,7 +7,7 @@
   </action>
   <action id="CollapseSelection" />
   <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="meta period" />
+    <keyboard-shortcut first-keystroke="meta colon" />
   </action>
   <action id="DomCollectionControl.Remove">
     <keyboard-shortcut first-keystroke="delete" />
