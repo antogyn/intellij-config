@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="tpl" type="EJS" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="tap-to-html" type="JavaScript" />
       <mapping pattern="test" type="PLAIN_TEXT" />
